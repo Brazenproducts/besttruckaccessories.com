@@ -140,6 +140,10 @@ h1,h2,h3,h4,h5{font-family:var(--font-heading);text-transform:uppercase;letter-s
 .cross-links-box ul{margin:.6rem 0 0 1.2rem;font-size:.92rem;line-height:1.8;list-style:disc}
 .cross-links-box a{color:var(--accent-light)}
 
+/* ===== FEATURE ART ===== */
+.feature-art{margin:1.25rem 0 2rem}
+.feature-art img{width:100%;height:auto;border-radius:var(--radius);border:1px solid var(--border-color);background:var(--charcoal-mid);box-shadow:0 16px 36px rgba(0,0,0,.28)}
+
 /* ===== FOOTER ===== */
 .site-footer{background:var(--charcoal-light);border-top:3px solid var(--accent);padding:2rem 1.5rem;margin-top:3rem}
 .footer-inner{max-width:var(--max-width);margin:0 auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:2rem}
