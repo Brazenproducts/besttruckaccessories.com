@@ -1,0 +1,23 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#171717"/>
+      <stop offset="1" stop-color="#2A1A0F"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1290" cy="210" r="250" fill="#D4782F" fill-opacity="0.14"/>
+  <circle cx="260" cy="740" r="220" fill="#5A7A45" fill-opacity="0.14"/>
+  <g opacity="0.95">
+    <rect x="510" y="450" width="540" height="120" rx="28" fill="#2B2B2B" stroke="#D4782F" stroke-width="6"/>
+    <rect x="610" y="340" width="240" height="120" rx="30" fill="#2B2B2B" stroke="#D4782F" stroke-width="6"/>
+    <rect x="890" y="370" width="160" height="80" rx="22" fill="#2B2B2B" stroke="#D4782F" stroke-width="6"/>
+    <circle cx="650" cy="590" r="58" fill="#111" stroke="#F0A500" stroke-width="6"/>
+    <circle cx="930" cy="590" r="58" fill="#111" stroke="#F0A500" stroke-width="6"/>
+    <rect x="1000" y="470" width="70" height="18" rx="8" fill="#F0A500"/>
+    <rect x="470" y="485" width="45" height="18" rx="8" fill="#F0A500"/>
+  </g>
+  <text x="120" y="150" fill="#FAE4CF" font-family="Oswald, Arial, sans-serif" font-size="84" font-weight="700">TRUCK ACCESSORY</text>
+  <text x="120" y="230" fill="#D4782F" font-family="Oswald, Arial, sans-serif" font-size="84" font-weight="700">GUIDES</text>
+  <text x="120" y="310" fill="#B9B9B9" font-family="Inter, Arial, sans-serif" font-size="32">Seat covers, tonneaus, floor mats, recovery, and work-ready upgrades.</text>
+</svg>
